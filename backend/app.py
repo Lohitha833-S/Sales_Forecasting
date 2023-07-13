@@ -4,7 +4,7 @@ import numpy as np
 from sklearn.linear_model import LinearRegression
 import csv
 
-# import plotly.graph_objects as go
+import plotly.graph_objects as go
 
 app=Flask(__name__)
 
